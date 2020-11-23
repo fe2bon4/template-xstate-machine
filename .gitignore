@@ -1,0 +1,5 @@
+node_modules/
+dist/
+src/tests/
+src/machines/sender/
+src/machines/reciever/
